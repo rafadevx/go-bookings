@@ -3,14 +3,13 @@ package main
 import (
 	"net/http"
 
-	"github.com/rafadevx/go-bookings/pkg/config"
 	"github.com/rafadevx/go-bookings/pkg/handlers"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 )
 
-func routes(app *config.AppConfig) http.Handler {
+func routes() http.Handler {
 
 	mux := chi.NewRouter()
 
