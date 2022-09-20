@@ -8,3 +8,5 @@ This is the repository for project developed in Trevor Sawler Course: Building M
 - [chi router](https://github.com/go-chi/chi)
 - [Alex Edwards SCS](https://github.com/alexedwards/scs) session manager
 - [nosurf](https://github.com/justinas/nosurf)
+
+:computer: Made by Rafael Del Grossi :speech_balloon: [Get in touch!](https://www.linkedin.com/in/rafael-del-grossi)
